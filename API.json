@@ -1,109 +1,109 @@
-
-  "studyMaterialCS": [
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/1.%20Intro%20.pdf",
-      "Title": "Intro",
-      "chNo": "1"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/2.%20Basics%20of%20C%20and%20C++.pdf",
-      "Title":"Basics of C and C++",
-      "chNo": "2"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/3.%20Introduction.pdf",
-      "Title": "Introduction",
-      "chNo": "3"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/4.%20Recursion.pdf",
-      "Title": "Recursion",
-      "chNo": "4"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/5.%20Array%20Representation.pdf",
-      "Title": "Array Representation",
-      "chNo": "5"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/6.%20Array%20ADT.pdf",
-      "Title": "Array ADT",
-      "chNo": "6"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/7.%20Strings.pdf",
-      "Title": "Strings",
-      "chNo": "7"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/8.%20Matrices.pdf",
-      "Title": "Matrices",
-      "chNo": "8"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/9.%20Sparse%20Matrix.pdf",
-      "Title": "Sparse Matrix",
-      "chNo": "9"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/10.%20Linked%20List.pdf",
-      "Title": "Linked List",
-      "chNo": "10"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/11.%20Sparse%20matrix%20using%20linked%20list.pdf",
-      "Title": "Sparse matrix using linked list",
-      "chNo": "11"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/12.%20Stack.pdf",
-      "Title": "Stack",
-      "chNo": "12"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/13.%20Queue.pdf",
-      "Title": "Queue",
-      "chNo": "13"
-    }
-    ,
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/14.%20Trees.pdf",
-      "Title": "Trees",
-      "chNo": "14"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/15.%20Binary%20Search%20Tree.pdf",
-      "Title": "Binary Search Tree",
-      "chNo": "15"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/16.%20AVL%20Trees.pdf",
-      "Title": "AVL Trees",
-      "chNo": "16"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/17.%20Search%20Trees.pdf",
-      "Title": "Search Trees",
-      "chNo": "17"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/18.%20Heap.pdf",
-      "Title": "Heap",
-      "chNo": "18"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/19.%20Sorting%20Techniques.pdf",
-      "Title": "Sorting Techniques",
-      "chNo": "19"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/20.%20Hashing%20Technique%20.pdf",
-      "Title": "Hashing Technique",
-      "chNo": "20"
-    },
-    {
-      "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/21.%20Graphs.pdf",
-      "Title": "Graphs",
-      "chNo": "21"
-    }
-  ]
+{
+    "studyMaterialCS": [
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/1.%20Intro%20.pdf",
+            "Title": "Intro",
+            "chNo": "1"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/2.%20Basics%20of%20C%20and%20C++.pdf",
+            "Title": "Basics of C and C++",
+            "chNo": "2"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/3.%20Introduction.pdf",
+            "Title": "Introduction",
+            "chNo": "3"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/4.%20Recursion.pdf",
+            "Title": "Recursion",
+            "chNo": "4"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/5.%20Array%20Representation.pdf",
+            "Title": "Array Representation",
+            "chNo": "5"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/6.%20Array%20ADT.pdf",
+            "Title": "Array ADT",
+            "chNo": "6"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/7.%20Strings.pdf",
+            "Title": "Strings",
+            "chNo": "7"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/8.%20Matrices.pdf",
+            "Title": "Matrices",
+            "chNo": "8"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/9.%20Sparse%20Matrix.pdf",
+            "Title": "Sparse Matrix",
+            "chNo": "9"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/10.%20Linked%20List.pdf",
+            "Title": "Linked List",
+            "chNo": "10"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/11.%20Sparse%20matrix%20using%20linked%20list.pdf",
+            "Title": "Sparse matrix using linked list",
+            "chNo": "11"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/12.%20Stack.pdf",
+            "Title": "Stack",
+            "chNo": "12"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/13.%20Queue.pdf",
+            "Title": "Queue",
+            "chNo": "13"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/14.%20Trees.pdf",
+            "Title": "Trees",
+            "chNo": "14"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/15.%20Binary%20Search%20Tree.pdf",
+            "Title": "Binary Search Tree",
+            "chNo": "15"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/16.%20AVL%20Trees.pdf",
+            "Title": "AVL Trees",
+            "chNo": "16"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/17.%20Search%20Trees.pdf",
+            "Title": "Search Trees",
+            "chNo": "17"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/18.%20Heap.pdf",
+            "Title": "Heap",
+            "chNo": "18"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/19.%20Sorting%20Techniques.pdf",
+            "Title": "Sorting Techniques",
+            "chNo": "19"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/20.%20Hashing%20Technique%20.pdf",
+            "Title": "Hashing Technique",
+            "chNo": "20"
+        },
+        {
+            "Link": "https://tworoot2.github.io/AbdulBariNotesDSA/DSA%20Notes%20Abdul%20Bari/21.%20Graphs.pdf",
+            "Title": "Graphs",
+            "chNo": "21"
+        }
+    ]
+}
